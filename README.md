@@ -1,2 +1,3 @@
 # depot-exercice
-dépôt de test pour l'exercice
+Ceci **dépôt** de test pour l'exercice
+- ecriture de *test*
